@@ -4,32 +4,32 @@ A modern and user-friendly motorcycle rental web application built with React fr
 
 ## 📸 Screenshots
 
-### Ana Sayfa - Motor Listesi
-![Ana Sayfa](./images/1.png)
+### Homepage - Motorcycle List
+![Homepage](./images/1.PNG)
 
-### Admin Paneli
-![Admin Paneli](./images/admin.png)
+### Admin Panel
+![Admin Panel](./images/admin.PNG)
 
-### Backend Çalışma Durumu
-![Backend Çalışma](./images/BACKEND.png)
+### Backend Running Status
+![Backend Running](./images/BACKEND.PNG)
 
-### Backend Detaylı Log
-![Backend Detay](./images/BACKEND2.png)
+### Backend Detailed Log
+![Backend Details](./images/BACKEND2.PNG)
 
 ### Frontend Development Server
-![Frontend Development](./images/FRONTEND.png)
+![Frontend Development](./images/FRONTEND.PNG)
 
-### API Test Sonuçları
-![API Test](./images/api-test.png)
+### API Test Results
+![API Test](./images/api-test.PNG)
 
-### Motor API Verileri
-![Motor API](./images/apimotors.png)
+### Motorcycle API Data
+![Motorcycle API](./images/apimotors.PNG)
 
-### Müşteri Arayüzü
-![Müşteri Arayüzü](./images/customer.png)
+### Customer Interface
+![Customer Interface](./images/customer.PNG)
 
-### Giriş Sayfası
-![Giriş Sayfası](./images/login.png)
+### Login Page
+![Login Page](./images/login.PNG)
 
 ## 🚀 Features
 
