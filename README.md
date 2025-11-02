@@ -1,72 +1,85 @@
 🏍️ Soydan Motorcycle Rental System
+
 A modern and user-friendly motorcycle rental web application built with React frontend and Node.js/Express backend.
 
-🚀 Features
-Frontend (React)
-✅ Modern responsive design with glassmorphism UI
+## 📸 Screenshots
 
-✅ Motorcycle listing and advanced filtering
+### Ana Sayfa - Motor Listesi
+![Ana Sayfa](./images/1.png)
 
-✅ User authentication (login/register)
+### Admin Paneli
+![Admin Paneli](./images/admin.png)
 
-✅ Reservation management system
+### Backend Çalışma Durumu
+![Backend Çalışma](./images/BACKEND.png)
 
-✅ Payment integration (Stripe)
+### Backend Detaylı Log
+![Backend Detay](./images/BACKEND2.png)
 
-✅ Admin dashboard with statistics
+### Frontend Development Server
+![Frontend Development](./images/FRONTEND.png)
 
-✅ Real-time status updates
+### API Test Sonuçları
+![API Test](./images/api-test.png)
 
-Backend (Node.js/Express)
-✅ JWT Authentication & Authorization
+### Motor API Verileri
+![Motor API](./images/apimotors.png)
 
-✅ MongoDB database with Mongoose
+### Müşteri Arayüzü
+![Müşteri Arayüzü](./images/customer.png)
 
-✅ Role-based access control (Admin/User)
+### Giriş Sayfası
+![Giriş Sayfası](./images/login.png)
 
-✅ Automated email notifications
+## 🚀 Features
 
-✅ Stripe payment processing
+### Frontend (React)
+✅ Modern responsive design with glassmorphism UI  
+✅ Motorcycle listing and advanced filtering  
+✅ User authentication (login/register)  
+✅ Reservation management system  
+✅ Payment integration (Stripe)  
+✅ Admin dashboard with statistics  
+✅ Real-time status updates  
 
-✅ RESTful API architecture
+### Backend (Node.js/Express)
+✅ JWT Authentication & Authorization  
+✅ MongoDB database with Mongoose  
+✅ Role-based access control (Admin/User)  
+✅ Automated email notifications  
+✅ Stripe payment processing  
+✅ RESTful API architecture  
+✅ CORS enabled for cross-origin requests  
 
-✅ CORS enabled for cross-origin requests
+## 📋 Prerequisites
 
-📋 Prerequisites
 Before you begin, ensure you have the following installed:
+- Node.js (version 18 or higher)
+- npm or yarn package manager
+- MongoDB Atlas account or local MongoDB installation
+- Git
 
-Node.js (version 18 or higher)
+## 🛠️ Required Accounts & API Keys
 
-npm or yarn package manager
-
-MongoDB Atlas account or local MongoDB installation
-
-Git
-
-🛠️ Required Accounts & API Keys
 You need to set up these services before running the application:
 
-1. MongoDB Atlas (Database)
-Create account at MongoDB Atlas
+### 1. MongoDB Atlas (Database)
+- Create account at [MongoDB Atlas](https://www.mongodb.com/atlas)
+- Create a new cluster
+- Get your connection string
 
-Create a new cluster
+### 2. Stripe (Payments)
+- Create account at [Stripe](https://stripe.com)
+- Get your test secret key and publishable key from the dashboard
 
-Get your connection string
+### 3. Gmail (Email Service)
+- Enable 2-factor authentication on your Gmail account
+- Generate an App Password for the application
 
-2. Stripe (Payments)
-Create account at Stripe
+### 4. Environment Variables
+Create a `.env` file in the backend directory with the following variables:
 
-Get your test secret key and publishable key from the dashboard
-
-3. Gmail (Email Service)
-Enable 2-factor authentication on your Gmail account
-
-Generate an App Password for the application
-
-4. Environment Variables
-Create a .env file in the backend directory with the following variables:
-
-env
+```env
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
 PORT=5000
 JWT_SECRET=your_secure_jwt_secret_here
@@ -92,7 +105,6 @@ npm install
 cp .env.example .env
 
 # Edit the .env file with your actual credentials
-# (See environment variables section above)
 Step 3: Frontend Setup
 bash
 # Navigate to frontend directory
@@ -154,6 +166,16 @@ Card Number	Expiry	CVC	ZIP	Description
 🗂️ Project Structure
 text
 soydan-motorcycle-rental/
+├── 📁 images/                   # Screenshots and assets
+│   ├── 📄 1.png                # Main application screenshot
+│   ├── 📄 admin.png            # Admin panel screenshot
+│   ├── 📄 BACKEND.png          # Backend running screenshot
+│   ├── 📄 BACKEND2.png         # Backend detailed log
+│   ├── 📄 FRONTEND.png         # Frontend development server
+│   ├── 📄 api-test.png         # API test results
+│   ├── 📄 apimotors.png        # Motor API data
+│   ├── 📄 customer.png         # Customer interface
+│   └── 📄 login.png            # Login page
 ├── 📁 frontend/                 # React application
 │   ├── 📁 src/
 │   │   ├── 📄 App.jsx          # Main application component
@@ -215,13 +237,9 @@ GET /api/odemeler/gecmis - Payment history
 
 📧 Email System
 The application sends automated emails for:
-
 ✅ Reservation confirmations
-
 ✅ New reservation notifications to admin
-
 ✅ Reservation status updates
-
 ✅ Payment confirmations
 
 Setup Requirements:
@@ -285,6 +303,7 @@ bash
 # Check EMAIL_USER and EMAIL_PASS in .env
 # Ensure 2FA is enabled on Gmail account
 Checking Logs
+
 bash
 # Backend logs
 cd backend && npm run dev
@@ -310,11 +329,8 @@ Update API URLs in production
 
 👨‍💻 Developer
 Name: [Your Name]
-
 Email: [Your Email]
-
 GitHub: [Your GitHub Profile]
-
 Portfolio: [Your Portfolio URL]
 
 📄 License
