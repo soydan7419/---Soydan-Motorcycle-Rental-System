@@ -5,31 +5,31 @@ A modern and user-friendly motorcycle rental web application built with React fr
 ## 📸 Screenshots
 
 ### Homepage - Motorcycle List
-![Homepage](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/1.PNG)
+![Homepage](soydan-backend/images/1.PNG)
 
 ### Admin Panel
-![Admin Panel](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/admin.PNG)
+![Admin Panel](soydan-backend/images/admin.PNG)
 
 ### Backend Running Status
-![Backend Running](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/BACKEND.PNG)
+![Backend Running](soydan-backend/images/BACKEND.PNG)
 
 ### Backend Detailed Log
-![Backend Details](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/BACKEND2.PNG)
+![Backend Details](soydan-backend/images/BACKEND2.PNG)
 
 ### Frontend Development Server
-![Frontend Development](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/FRONTEND.PNG)
+![Frontend Development](soydan-backend/images/FRONTEND.PNG)
 
 ### API Test Results
-![API Test](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/api-test.PNG)
+![API Test](soydan-backend/images/api-test.PNG)
 
 ### Motorcycle API Data
-![Motorcycle API](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/apimotors.PNG)
+![Motorcycle API](soydan-backend/images/apimotors.PNG)
 
 ### Customer Interface
-![Customer Interface](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/customer.PNG)
+![Customer Interface](soydan-backend/images/customer.PNG)
 
 ### Login Page
-![Login Page](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/login.PNG)
+![Login Page](soydan-backend/images/login.PNG)
 
 ## 🚀 Features
 
