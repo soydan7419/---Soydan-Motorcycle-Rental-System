@@ -5,31 +5,32 @@ A modern and user-friendly motorcycle rental web application built with React fr
 ## 📸 Screenshots
 
 ### Homepage - Motorcycle List
-![Homepage](images/1.PNG)
+![Homepage](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/1.PNG)
 
 ### Admin Panel
-![Admin Panel](images/admin.PNG)
+![Admin Panel](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/admin.PNG)
 
 ### Backend Running Status
-![Backend Running](images/BACKEND.PNG)
+![Backend Running](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/BACKEND.PNG)
 
 ### Backend Detailed Log
-![Backend Details](images/BACKEND2.PNG)
+![Backend Details](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/BACKEND2.PNG)
 
 ### Frontend Development Server
-![Frontend Development](images/FRONTEND.PNG)
+![Frontend Development](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/FRONTEND.PNG)
 
 ### API Test Results
-![API Test](images/api-test.PNG)
+![API Test](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/api-test.PNG)
 
 ### Motorcycle API Data
-![Motorcycle API](images/apimotors.PNG)
+![Motorcycle API](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/apimotors.PNG)
 
 ### Customer Interface
-![Customer Interface](images/customer.PNG)
+![Customer Interface](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/customer.PNG)
 
 ### Login Page
-![Login Page](images/login.PNG)
+![Login Page](https://raw.githubusercontent.com/soydan7419/Soydan-Motorcycle-Rental-System/main/soydan-backend/images/login.PNG)
+
 
 ## 🚀 Features
 
