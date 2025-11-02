@@ -328,10 +328,9 @@ Deploy the dist folder
 Update API URLs in production
 
 👨‍💻 Developer
-Name: [Your Name]
-Email: [Your Email]
-GitHub: [Your GitHub Profile]
-Portfolio: [Your Portfolio URL]
+Name: [Alperen Soydan]
+Email: [a.soydab083@gmail.com]
+GitHub: [github.com/soydan7419/]
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
